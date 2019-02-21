@@ -1,6 +1,7 @@
 # weather_app
 
 透過常見的 Widgets 建構一個仿 iOS 天氣的 App UI
+ICON 圖片來源：https://www.flaticon.com/packs/weather-78
 
 ## Getting Started
 
