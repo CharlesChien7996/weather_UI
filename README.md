@@ -1,6 +1,6 @@
 # weather_app
 
-A new Flutter application.
+透過常見的 Widgets 建構一個仿 iOS 天氣的 App UI
 
 ## Getting Started
 
